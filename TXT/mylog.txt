@@ -3,10 +3,9 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00  10 L00 General Log
 ZCZC W00  60 L01 SCELE related
+ZCZC W00  60 L03 GitHub related
+ZCZC W00 180 L06 Reading Books/Documents
 ZCZC W00 120 L02 ZOOM
-ZCZC W00 600 L99 Other (Nonton YouTube)
-ZCZC W01  15 L00 General Log
-ZCZC W01  60 L01 SCELE related
-ZCZC W01 120 L02 ZOOM
-ZCZC W01 800 L99 Other (Nonton YouTube)
+ZCZC W00 100 L99 Other (Nonton YouTube)
+ZCZC W00  30 L03 GitHub related
 
